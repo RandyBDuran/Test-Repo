@@ -1,2 +1,3 @@
 # Test-Repo
-A test repo. Here is what the hotfix added.
+A test repo.
+Here are some more changes on line 3.
